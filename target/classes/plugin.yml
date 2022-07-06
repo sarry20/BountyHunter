@@ -1,0 +1,24 @@
+name: BountyHunter
+version: 0.0.1
+main: com.sarry20.bountyhunter.bountyHunter
+api-version: 1.18
+
+commands:
+  BGroup:
+    aliases:
+      - BountyHunter
+      - BountyGroup
+      - HunterGroup
+  JoinSol:
+    aliases:
+      - jSol
+      - SolJoin
+      - Sjoin
+  JoinLuna:
+    aliases:
+      - jLuna
+      - LunaJoin
+      - Ljoin
+  JoinSL:
+    aliases:
+      - jSL
